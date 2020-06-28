@@ -1,0 +1,7 @@
+.singleBlog{
+    display:flex;
+    margin:2rem 0;
+    flex-direction:column;
+    align-items:center;
+    justify-content: space-around;
+}
